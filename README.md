@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shariq
-- 👀 I’m interested in learning about Database Management Systems
+- 👀 I’m interested in learning about Database Management Systems and Data Analytics.
 
 
 <!---
